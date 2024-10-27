@@ -1,16 +1,21 @@
-# pixametory
+# pixamentory
 
-A new Flutter project.
+Flutter based Apk assignment for pixamentory online services
 
-## Getting Started
+Home screen with bottom navigation bar
+When tapped on play redirected to the web based game.
+![Screenshot 2024-10-27 180940](https://github.com/user-attachments/assets/84207ab5-fe04-4d6e-af5d-a3a99cec7045)
 
-This project is a starting point for a Flutter application.
+When navigate to games screen their is no recently played game them this screen showed
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot 2024-10-27 183314](https://github.com/user-attachments/assets/5e4f3c9e-15b5-4c2e-a098-5f7728415587)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Cloud based game screen with all the functionlity of original website
+
+![Screenshot 2024-10-27 183354](https://github.com/user-attachments/assets/d1ae89e5-31bf-4c9c-b6cd-a71c8a451a9c)
+
+
+Apk drive link -------      https://drive.google.com/file/d/1yE4Yc76EKMtkW3Q2iBasIEHmO9if8AO6/view?usp=drive_link
+
+
